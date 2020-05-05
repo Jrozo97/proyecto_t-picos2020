@@ -18,7 +18,7 @@ public class Ing_Sw_2020 {
         
         System.out.println("Inicio del proyecto mayo 4 11:40");
         System.out.println("Modificacion desde github mayo 5 2:31");
-        
+        System.out.println("Modificacion desde github mayo 5 2:42");
         
     }
     
